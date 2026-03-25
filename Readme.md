@@ -1,5 +1,3 @@
-
-# Dispersion-Compensation
 # Dispersion Compensation
 
 ## Objective
