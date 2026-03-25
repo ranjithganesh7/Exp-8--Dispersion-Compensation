@@ -69,6 +69,10 @@ The main physical components of this layout are:
 
 ---
 
+## Block Diagram
+<img width="510" height="301" alt="image" src="https://github.com/user-attachments/assets/1c6a21d5-79bd-428b-9001-8ef39e4a2325" />
+
+
 ## Calculation
 
 <img width="694" height="1280" alt="image" src="https://github.com/user-attachments/assets/f94f3b23-0678-4319-beb3-b327de59c882" />
